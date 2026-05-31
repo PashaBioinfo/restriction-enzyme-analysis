@@ -58,4 +58,3 @@ for enzyme, cutting_site in enzymes.items():
     else:
         print("-" * line_width)
         print(f'There are no sites for {enzyme}.')
-
