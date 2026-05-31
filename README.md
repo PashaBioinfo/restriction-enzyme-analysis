@@ -1,4 +1,4 @@
-### Restriction Enzyme Analysis
+#### Restriction Enzyme Analysis
 
 This was an assignment completed as part of a graduate-level Bioinformatics Programming course.
 
