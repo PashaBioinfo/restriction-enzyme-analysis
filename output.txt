@@ -1,0 +1,35 @@
+Restriction enzyme analysis of sequence from file testseq.fasta.
+Cutting with enzymes found in file enzymes.txt.
+----------------------------------------------------------------
+Sequence name: TESTSEQ
+Sequence is 111 bases long.
+----------------------------------------------------------------
+There are 2 cutting sites for EcoRI, cutting at G^AATTC
+There are 3 fragments:
+
+length: 28
+1       ATTATAAAAT TAAAATTATA TCCAATGG
+length: 24
+29      AATTCAATTA AATTAAATTA AAGG
+length: 59
+53      AATTCAATAA TATACCCCGG GGGGATCCAA TTAAAAGCTA AAAAAAAAAA AAAAAAAAA
+
+----------------------------------------------------------------
+There are 1 cutting sites for BamHI, cutting at G^GATCC
+There are 2 fragments:
+
+length: 75
+1       ATTATAAAAT TAAAATTATA TCCAATGGAA TTCAATTAAA TTAAATTAAA GGAATTCAAT AATATACCCC GGGGG
+length: 36
+76      GATCCAATTA AAAGCTAAAA AAAAAAAAAA AAAAAA
+
+----------------------------------------------------------------
+There are no sites for PstI.
+----------------------------------------------------------------
+There are 1 cutting sites for AluI, cutting at AG^CT
+There are 2 fragments:
+
+length: 89
+1       ATTATAAAAT TAAAATTATA TCCAATGGAA TTCAATTAAA TTAAATTAAA GGAATTCAAT AATATACCCC GGGGGGATCC AATTAAAAG
+length: 22
+90      CTAAAAAAAA AAAAAAAAAA AA
